@@ -2,10 +2,10 @@
 
 ## I'm a Husband, Developer, Engineering Manager, and Blogger!
 - 🚀 Just launched my personal [website][website]!
-- 🔭 I’m currently working on launching a Blog and a YouTube Channel!
+- 🔭 I’m currently working on launching a Blog and a YouTube channel!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Launch website [✔️], Launch Youtube Channel [...], Launch blog [...], Contribute more to Open Source projects [...]
+- 🥅 2020 Goals: Launch website [✔️], launch Youtube channel [...], launch Blog [...], contribute more to Open Source projects [...]
 - ⚡ Fun fact: I love to dance and play guitar
 
 ### Connect with me:
