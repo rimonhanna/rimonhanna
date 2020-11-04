@@ -1,7 +1,7 @@
 ### Hi there, I'm Rimon Hanna - [website] 👋
 
 ## I'm a Husband, Engineering Manager, Developer, and Blogger!
-- 🚀 Just launched my [blog][blog] and personal [website][website]!
+- 🚀 Just launched my [blog][website] and personal [website][website]!
 - 🔭 I’m currently working on launching a YouTube channel!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -57,8 +57,7 @@
 
 <img align="left" alt="rimonhanna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rimonhanna&show_icons=true&hide_border=true" />
 
-[website]: https://rimonhanna.com/about/
-[blog]: https://rimonhanna.com
+[website]: https://rimonhanna.com/
 [twitter]: https://twitter.com/rimon_hanna
 [youtube]: https://youtube.com/rimonhanna
 [linkedin]: https://linkedin.com/in/rimonhanna
