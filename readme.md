@@ -43,9 +43,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-[Blogging with Ghost!][blogging_with_ghost]
-[Google Workspace Desktop App (Unofficial)][google_workspace_app]
-[Hosting your website for free on Google Cloud][free_hosting_google]
+- [Blogging with Ghost!][blogging_with_ghost]
+- [Google Workspace Desktop App (Unofficial)][google_workspace_app]
+- [Hosting your website for free on Google Cloud][free_hosting_google]
 <!-- BLOG-POST-LIST:END -->
 
 ---
