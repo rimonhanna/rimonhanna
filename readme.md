@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on launching a YouTube channel!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Launch website [✔️], launch blog [✔️], launch Youtube channel [...], contribute more to Open Source [...]
+- 🥅 2020 Goals: Launch website [✔️], launch blog [✔️], launch Youtube channel [...], contribute more to Open Source [✔️]
 - ⚡ Fun fact: I love to dance and play guitar
 
 ### Connect with me:
@@ -41,17 +41,19 @@
 
 ---
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+https://rimonhanna.com/blogging-with-ghost/
+https://rimonhanna.com/google-workspace-unofficial-app/
+https://rimonhanna.com/hosting-your-website-for-free-on-google-cloud/
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 
 <!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
