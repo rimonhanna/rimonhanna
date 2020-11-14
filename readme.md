@@ -43,7 +43,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+[Blogging with Ghost][blogging with ghost]!
 <!-- BLOG-POST-LIST:END -->
 
 ---
