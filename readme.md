@@ -43,7 +43,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-[Blogging with Ghost][blogging with ghost]!
+[Blogging with Ghost!][blogging_with_ghost]
+[Google Workspace Desktop App (Unofficial)][google_workspace_app]
+[Hosting your website for free on Google Cloud][free_hosting_google]
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -61,6 +63,6 @@
 [twitter]: https://twitter.com/rimon_hanna
 [youtube]: https://youtube.com/rimonhanna
 [linkedin]: https://linkedin.com/in/rimonhanna
-[blogging with ghost]: https://rimonhanna.com/blogging-with-ghost/
-[google-workspace-app]: https://rimonhanna.com/google-workspace-unofficial-app/
-[free-hosting-google]: https://rimonhanna.com/hosting-your-website-for-free-on-google-cloud/
+[blogging_with_ghost]: https://rimonhanna.com/blogging-with-ghost/
+[google_workspace_app]: https://rimonhanna.com/google-workspace-unofficial-app/
+[free_hosting_google]: https://rimonhanna.com/hosting-your-website-for-free-on-google-cloud/
