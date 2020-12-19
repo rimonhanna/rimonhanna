@@ -46,6 +46,7 @@
 - [Blogging with Ghost!][blogging_with_ghost]
 - [Google Workspace Desktop App (Unofficial)][google_workspace_app]
 - [Hosting your website for free on Google Cloud][free_hosting_google]
+- [Migrate your playlists from Spotify to YouTube Music][from_spotify_to_youtube]
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -66,3 +67,4 @@
 [blogging_with_ghost]: https://rimonhanna.com/blogging-with-ghost/
 [google_workspace_app]: https://rimonhanna.com/google-workspace-unofficial-app/
 [free_hosting_google]: https://rimonhanna.com/hosting-your-website-for-free-on-google-cloud/
+[from_spotify_to_youtube]: https://rimonhanna.com/migrate-playlists-from-spotify-to-youtube-music/
