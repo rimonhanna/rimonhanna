@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Launch website [✔️], launch blog [✔️], launch Youtube channel [...], contribute more to Open Source [✔️]
+- 🥅 2021 Goals: Start my Salesforce Consulting Company [...], launch Youtube channel [...], continue contributing to Open Source [...]
 - ⚡ Fun fact: I love to dance and play guitar
 
 ### Connect with me:
