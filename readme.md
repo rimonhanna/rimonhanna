@@ -1,6 +1,6 @@
 ### Hi there, I'm Rimon Hanna - [website] 👋
 
-## I'm a Husband, Engineering Manager, Developer, and Blogger!
+## I'm a Husband, Entrepreneur, Developer, and Blogger!
 - 🚀 Just launched my [blog][website] and personal [website][website]!
 - 🔭 I’m currently working on launching a YouTube channel!
 - 🌱 I’m currently learning everything 🤣
