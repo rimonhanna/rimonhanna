@@ -1,6 +1,6 @@
 ### Hi there, I'm Rimon Hanna - [website] 👋
 
-## I'm a Husband, Entrepreneur, Blogger, and a Software Engineer at heart!
+## I'm an Entrepreneur, Blogger, and a Software Engineer at heart!
 - 🚀 Just launched my [blog][website] and personal [website][website]!
 - 🔭 I’m currently working on launching a YouTube channel!
 - 🌱 I’m currently learning everything 🤣
