@@ -43,10 +43,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Blogging with Ghost!][blogging_with_ghost]
-- [Google Workspace Desktop App (Unofficial)][google_workspace_app]
-- [Hosting your website for free on Google Cloud][free_hosting_google]
-- [Migrate your playlists from Spotify to YouTube Music][from_spotify_to_youtube]
+<!-- - [Blogging with Ghost!][blogging_with_ghost] -->
+<!-- - [Google Workspace Desktop App (Unofficial)][google_workspace_app] -->
+<!-- - [Hosting your website for free on Google Cloud][free_hosting_google] -->
+<!-- - [Migrate your playlists from Spotify to YouTube Music][from_spotify_to_youtube] -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -59,8 +59,8 @@
 ---
 
 <img align="left" alt="rimonhanna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rimonhanna&show_icons=true&hide_border=true" />
-
-[website]: https://rimonhanna.com/
+<!--
+[website]: https://rimonhanna.com/ 
 [twitter]: https://twitter.com/rimon_hanna
 [youtube]: https://youtube.com/rimonhanna
 [linkedin]: https://linkedin.com/in/rimonhanna
@@ -68,3 +68,4 @@
 [google_workspace_app]: https://rimonhanna.com/google-workspace-unofficial-app/
 [free_hosting_google]: https://rimonhanna.com/hosting-your-website-for-free-on-google-cloud/
 [from_spotify_to_youtube]: https://rimonhanna.com/migrate-playlists-from-spotify-to-youtube-music/
+-->
