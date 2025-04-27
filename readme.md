@@ -1,4 +1,5 @@
-### Hi there, I'm Rimon Hanna - [website] 👋
+### Hi there 👋 
+<!--, I'm Rimon Hanna - [website] -->
 
 ## I'm an Entrepreneur, Blogger, and a Software Engineer at heart!
 <!--
@@ -10,15 +11,15 @@
 - 🥅 2020 Goals: Launch website [✔️], launch blog [✔️], launch Youtube channel [...], contribute more to Open Source [✔️]
 - 🥅 2022 Goals: Start my Company [✔️], launch Youtube channel [...], continue contributing to Open Source [✔️]
 - ⚡ I love to travel, dance, and karaoke
-
-### Connect with me:
 <!--
+### Connect with me:
+
 [<img align="left" alt="rimonhanna.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="rimonhanna | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="rimonhanna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
--->
-<br />
 
+<br />
+-->
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
