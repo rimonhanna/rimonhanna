@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Start my Company [✔️], launch Youtube channel [...], continue contributing to Open Source [✔️]
 - 🥅 2025 Goals: Grow the team [✔️], contribute to the growth of [Syntilio](https://syntilio.com) products and services  [✔️], continue contributing to Open Source [✔️]
+- 🥅 2026 Goals: Launch [DUTO](https://dutopilot.com), a delivery autopilot that takes tickets all the way to merged pull requests [🚀]
 - ⚡ I love to travel, dance, and karaoke
 <!--
 ### Connect with me:
